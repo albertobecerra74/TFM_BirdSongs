@@ -18,7 +18,7 @@ Ver documento **TFM_Memoria_Identificando_aves_por_el_canto.pdf**
 
 Notebooks
 -----------------------
-Notebooks elaborados para la elaboración del trabajo
+Notebooks elaborados para la ejecución del trabajo
 
 * Birdsongs_01_Obteniendo_Datos_Webscrapping_DataSet.ipynb
 * Birdsongs_02_Obteniendo_Datos_Seleccionando_Especies.ipynb
