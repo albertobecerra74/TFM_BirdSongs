@@ -6,15 +6,22 @@ Identificando aves por el canto
 
 El objetivo de este trabajo es ver si es posible generar un clasificador lo bastante preciso, que permita la identificación de las aves a partir de sus cantos y que pueda ser utilizado con fines de investigación y/o comerciales. Para ello contamos con un dataset elaborado a partir de la web [Xeno-Canto](https://www.xeno-canto.org) con grabaciones de aves localizadas en el continente europeo.
 
-Ver el documento con la propuesta inicial: TFM_Identificando_aves_por_el_canto.pdf
+Ver el documento con la propuesta inicial: [TFM_Identificando_aves_por_el_canto.pdf](https://github.com/albertobecerra74/TFM_BirdSongs/blob/master/TFM_Identificando_aves_por_el_canto.pdf)
 
 Memoria
 -------------
 
 La memoria contiene un resumen del trabajo realizado, las metodologías y herramientas utilizadas para su elaboración, así como los resultados y conclusiones obtenidas.
 
-Ver documento **TFM_Memoria_Identificando_aves_por_el_canto.pdf**
+Ver documento [**TFM_Memoria_Identificando_aves_por_el_canto.pdf**](https://github.com/albertobecerra74/TFM_BirdSongs/blob/master/TFM_Memoria_Identificando_Especies_Por_el_Canto.pdf)
 
+Datasets
+-----------------------
+
+* **Birdsongs_My_Birdsongs_Europe_20181230103204.csv: Dataset de trabajo**
+* **Birdsongs_My_Birdsongs_Europe_5_Especies.csv: Dataset con las 5 especies subidas a github**
+* Birdsongs_europe_C_20181220213936.csv: Dataset original scrapeado 
+* Birdsongs_My_Especies_Europe_20181230103204.csv: Listado de especies
 
 Notebooks
 -----------------------
@@ -32,12 +39,8 @@ Notebooks elaborados para la ejecución del trabajo
 * Birdsongs_10_Modelando_Datos_Deep_Learning_CNN.ipynb
 * Birdsongs_11_Modelando_Datos_Deep_Learning_DNN.ipynb
 
-Datasets
------------------------
 
-* **Birdsongs_My_Birdsongs_Europe_20181230103204.csv: Dataset de trabajo**
-* Birdsongs_europe_C_20181220213936.csv: Dataset original scrapeado 
-* Birdsongs_My_Especies_Europe_20181230103204.csv: Listado de especies
+Para la ejecución de los notebooks a partir del 5, si no se quieren ejecutar los previos para obtener todo el dataset, utilizar Birdsongs_My_Birdsongs_Europe_5_Especies.csv, que contiene las grabaciones subidas al repositorio audio.
 
 
 Repositorios
