@@ -42,6 +42,8 @@ Notebooks elaborados para la ejecución del trabajo
 
 **Para la ejecución de los notebooks a partir del 5, si no se quieren ejecutar los previos para obtener todo el dataset y las grabaciones de audio, utilizar Birdsongs_My_Birdsongs_Europe_5_Especies.csv, que contiene las grabaciones subidas al repositorio audio.**
 
+Si no puedes visualizarlos, usa https://nbviewer.jupyter.org/
+
 
 Repositorios
 -----------------------
