@@ -18,7 +18,7 @@ Ver documento [**TFM_Memoria_Identificando_aves_por_el_canto.pdf**](https://gith
 Datasets
 -----------------------
 
-* **Birdsongs_My_Birdsongs_Europe_20181230103204.csv: Dataset de trabajo**
+* **[Birdsongs_My_Birdsongs_Europe_20181230103204.csv](https://github.com/albertobecerra74/TFM_BirdSongs/blob/master/Birdsongs_My_Birdsongs_Europe_20181230103204.csv): Dataset de trabajo**
 * **Birdsongs_My_Birdsongs_Europe_5_Especies.csv: Dataset con las 5 especies subidas a github**
 * Birdsongs_europe_C_20181220213936.csv: Dataset original scrapeado 
 * Birdsongs_My_Especies_Europe_20181230103204.csv: Listado de especies
@@ -40,7 +40,7 @@ Notebooks elaborados para la ejecución del trabajo
 * Birdsongs_11_Modelando_Datos_Deep_Learning_DNN.ipynb
 
 
-Para la ejecución de los notebooks a partir del 5, si no se quieren ejecutar los previos para obtener todo el dataset, utilizar Birdsongs_My_Birdsongs_Europe_5_Especies.csv, que contiene las grabaciones subidas al repositorio audio.
+**Para la ejecución de los notebooks a partir del 5, si no se quieren ejecutar los previos para obtener todo el dataset, utilizar Birdsongs_My_Birdsongs_Europe_5_Especies.csv, que contiene las grabaciones subidas al repositorio audio.**
 
 
 Repositorios
