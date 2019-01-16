@@ -4,7 +4,7 @@ KSchool TFM (8 Master Data Science)
 Identificando aves por el canto
 =======
 
-El objetivo de este trabajo es determinar si es posible generar un modelo lo bastante preciso, que permita la identificación de las aves a partir de sus cantos y que pueda ser utilizado con fines de investigación y/o comerciales. Para ello contamos con un dataset elaborado a partir de la web [Xeno-Canto](https://www.xeno-canto.org) con grabaciones de aves localizadas en el continente europeo.
+El objetivo de este trabajo es ver si es posible generar un clasificador lo bastante preciso, que permita la identificación de las aves a partir de sus cantos y que pueda ser utilizado con fines de investigación y/o comerciales. Para ello contamos con un dataset elaborado a partir de la web [Xeno-Canto](https://www.xeno-canto.org) con grabaciones de aves localizadas en el continente europeo.
 
 Ver el documento con la propuesta inicial: TFM_Identificando_aves_por_el_canto.pdf
 
