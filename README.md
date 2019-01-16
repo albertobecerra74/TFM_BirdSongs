@@ -43,9 +43,9 @@ Repositorios
 -----------------------
 
 * **audio**: contiene las grabaciones en mp3 de 5 de las especies utilizadas. Por motivos de espacio no se han subido más.
-* **data**: repositorio donde se generan los datos
-* **image**: repositorio donde se generan las imágenes
-* **model**: repositorio donde se generan los modelos con el conjunto de datos de train, validación y test
+* **data**: repositorio donde se generan los datos (se informa con la ejecución de los notebooks)
+* **image**: repositorio donde se generan las imágenes (se informa con la ejecución de los notebooks)
+* **model**: repositorio donde se generan los modelos con el conjunto de datos de train, validación y test (se informa con la ejecución de los notebooks)
 * **results**: repositorio donde se almacenan las ejecuciones en formato HTML
 * **resources**: repositorio con imágenes y fotos para la elaboración del trabajo
 
